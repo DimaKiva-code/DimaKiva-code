@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hello 👋
+(INCOMPLETE FOR NOW)
+
+I am Dima, a self-taught programmer and game developer. Coding and game development is one of my hobbies!
+
+### Key Information about Me:
+ * **Languages:** Python, Java, GDScript
+ * **Game Engines:** Godot, Unity
+ * **Tools:** Git, GitHub
+### Featured Projects of Mine:
+
+
 
 <!--
 **DimaKiva-code/DimaKiva-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
